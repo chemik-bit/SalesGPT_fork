@@ -56,6 +56,6 @@ html_css_files = [
 
 # Google Tag Manager
 html_js_files = [
-    ('https://www.googletagmanager.com/gtag/js?id=GTM-TTQZ3ZJ9', {'async': 'async'}),
+    ('https://www.googletagmanager.com/gtag/js?id=GTM-NX3SZD79', {'async': 'async'}),
     'js/gtag-config.js'
 ]
