@@ -53,3 +53,9 @@ html_static_path = ['_static']
 html_css_files = [
     'custom.css',  # add your custom CSS file here
 ]
+
+# Google Tag Manager
+html_js_files = [
+    ('https://www.googletagmanager.com/gtag/js?id=G-N73Z2D8W81', {'async': 'async'}),
+    'js/gtag-config.js'
+]
